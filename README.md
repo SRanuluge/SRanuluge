@@ -11,10 +11,10 @@
 <img   src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-## About Me
+### About Me
 With 3+ years experience as a skilled and dedicated Software Engineer specializing in ``JavaScript | PHP | Python`` my objective is to utilize my expertise to create dynamic and responsive web applications that push the boundaries of user interactivity and enhance overall user experiences. 
 
-## Skils
+### Skills
 
 <p>
   <a href="https://skillicons.dev">
