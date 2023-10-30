@@ -9,21 +9,21 @@
 
 With 3+ years experience as a skilled and dedicated Software Engineer specializing in ``JavaScript | PHP | Python`` my objective is to utilize my expertise to create dynamic and responsive web applications that push the boundaries of user interactivity and enhance overall user experiences. 
 
----
+##
 
 ### Skills
 
-<div>
-  <kbd>
-   <img align="left" src="https://skillicons.dev/icons?i=js,ts,php,py" />
-   <img align="left" src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs" />
-   <img align="left" src="https://skillicons.dev/icons?i=mongodb,mysql" />
-   <img align="left" src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab " />
+<div >
+  
+   <img  src="https://skillicons.dev/icons?i=js,ts,php,py" />
+   <img  src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs" />
+   <img  src="https://skillicons.dev/icons?i=mongodb,mysql" />
+   <img  src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab " />
    <img src="https://skillicons.dev/icons?i=aws,docker,linux,vim"/>
-   </kbd>
+   
 </div>
 
----
+##
 
 <img src="https://github-readme-stats.vercel.app/api?username=SRanuluge&show_icons=true&theme=tokyonight" />
 
