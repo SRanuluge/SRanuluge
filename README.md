@@ -13,11 +13,11 @@ With 3+ years experience as a skilled and dedicated Software Engineer specializi
 
 ### Skills
 
-<div >
+<div>
   <kbd>
-    <img  src="https://skillicons.dev/icons?i=js,ts,nodejs,php,py" />
-    <img  src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-   <img  src="https://skillicons.dev/icons?i=git,github,postman" />
+   <img align="left" src="https://skillicons.dev/icons?i=js,ts,php,py" />
+   <img align="left" src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs,mongodb,mysql" />
+   <img align="left" src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab " />
    <img src="https://skillicons.dev/icons?i=aws,docker,linux,vim" />
    </kbd>
 </div>
