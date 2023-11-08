@@ -9,7 +9,7 @@
 
 With 3+ years experience as a skilled and dedicated Software Engineer specializing in ``JavaScript | PHP | Python`` my objective is to utilize my expertise to create dynamic and responsive web applications that push the boundaries of user interactivity and enhance overall user experiences. 
 
-##
+## 
 
 ### Skills 
 
