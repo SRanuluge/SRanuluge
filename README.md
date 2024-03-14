@@ -11,7 +11,7 @@ With 3+ years experience as a skilled and dedicated Software Engineer specializi
 
 ## 
 
-### Skills 
+### Skills
 
 <div > 
   
