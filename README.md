@@ -13,7 +13,7 @@ With 3+ years experience as a skilled and dedicated Software Engineer specializi
 
 ### Skills
 
-<div > 
+<div >
   
    <img  src="https://skillicons.dev/icons?i=js,ts,php,py" />
    <img  src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,nodejs" />
